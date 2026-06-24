@@ -46,7 +46,7 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 
 
 
-### [Práctica 4. Crear una presentación ejecutiva de Talento Humano con Copilot en PowerPoint](CHAPTER_04/ch04-smart-savings-goals/README.mdCapitulo_4/README.md
+### [Práctica 4. Crear una presentación ejecutiva de Talento Humano con Copilot en PowerPoint](CHAPTER_04/ch04-smart-savings-goals/README.mdCapitulo_4/README.md)
   - **Descripción**: Integrarás los resultados obtenidos durante las prácticas anteriores para elaborar una presentación ejecutiva con Microsoft Copilot en PowerPoint. A partir de los hallazgos relacionados con análisis de talento, competencias, perfiles, riesgos de rotación y movilidad interna, estructurarás y perfeccionarás las diapositivas, construyendo una narrativa clara y orientada a la toma de decisiones por parte de líderes de Talento Humano y áreas directivas..
 
   - ⏱️**Duración estimada**: 20 min.
